@@ -19,7 +19,7 @@ Download the app .apk file from the google drive link above and install
 
 ## Author
 
-* **Stephen Oyebanji** - *Initial work* - [Proquiz](https://github.com/ProquizUdacity)
+* **Stephen Oyebanji** - *Initial work* - [Proquiz](https://github.com/SteveOye/ProquizUdacity/tree/master/ProQuiz)
 
 ## Acknowledgments
 
