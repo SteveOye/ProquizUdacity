@@ -17,9 +17,9 @@ Download the app .apk file from the google drive link above and install
 * Android Studio
 * Java and XML
 
-## Authors
+## Author
 
-* **Stephen Oyebanji** - *Initial work* - [SteveOye](https://github.com/SteveOye)
+* **Stephen Oyebanji** - *Initial work* - [Proquiz](https://github.com/ProquizUdacity)
 
 ## Acknowledgments
 
